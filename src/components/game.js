@@ -3,7 +3,8 @@ import Header from './header';
 import Form from './form';
 
 
-export default function Game(props) {
+
+export default function Game() {
 
 		return (
 			<div>
